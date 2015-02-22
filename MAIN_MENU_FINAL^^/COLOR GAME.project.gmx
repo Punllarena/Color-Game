@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound0</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\play_game</sprite>
     <sprite>sprites\play_game1</sprite>
@@ -41,6 +43,7 @@
     <object>objects\hardcore_mode</object>
     <object>objects\back_mode</object>
     <object>objects\okO</object>
+    <object>objects\sound</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\MenuRoom</room>
