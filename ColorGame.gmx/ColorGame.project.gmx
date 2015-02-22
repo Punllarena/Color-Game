@@ -16,6 +16,7 @@
     <sprite>sprites\dice_white</sprite>
     <sprite>sprites\dice_pink</sprite>
     <sprite>sprites\dice_green</sprite>
+    <sprite>sprites\Avatart</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -29,9 +30,10 @@
     <object>objects\Dice5</object>
     <object>objects\Dice6</object>
     <object>objects\sound</object>
+    <object>objects\Avatar</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\Game</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
