@@ -43,7 +43,7 @@
     <object>objects\hardcore_mode</object>
     <object>objects\back_mode</object>
     <object>objects\okO</object>
-    <object>objects\Background_sound</object>
+    <object>objects\BackGround_sound</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\MenuRoom</room>
