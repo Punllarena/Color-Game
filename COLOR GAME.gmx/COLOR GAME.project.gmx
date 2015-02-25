@@ -32,6 +32,12 @@
     <sprite>sprites\spr_white</sprite>
     <sprite>sprites\spr_yellow</sprite>
     <sprite>sprites\spr_pink</sprite>
+    <sprite>sprites\sprite24</sprite>
+    <sprite>sprites\spr_instruct</sprite>
+    <sprite>sprites\SPR_INST</sprite>
+    <sprite>sprites\SPR_DICE</sprite>
+    <sprite>sprites\SPR_ROLL</sprite>
+    <sprite>sprites\SPR_COI</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\front_page</background>
@@ -57,12 +63,18 @@
     <object>objects\obj_white</object>
     <object>objects\obj_yellow</object>
     <object>objects\obj_pink</object>
+    <object>objects\OBJ_INSTRUCT</object>
+    <object>objects\OBJ_INST</object>
+    <object>objects\OBJ_DICE</object>
+    <object>objects\OBJ_ROLL</object>
+    <object>objects\object21</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\MenuRoom</room>
     <room>rooms\Mode</room>
     <room>rooms\CreditsRoom</room>
     <room>rooms\Normal</room>
+    <room>rooms\rm_instruct</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
