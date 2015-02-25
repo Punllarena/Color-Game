@@ -4,9 +4,7 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\Circus</sound>
-  </sounds>
+  <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\play_game</sprite>
     <sprite>sprites\play_game1</sprite>
@@ -26,6 +24,7 @@
     <sprite>sprites\backMode1</sprite>
     <sprite>sprites\okCredits</sprite>
     <sprite>sprites\okCredits1</sprite>
+    <sprite>sprites\Instruct</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\front_page</background>
@@ -43,7 +42,6 @@
     <object>objects\hardcore_mode</object>
     <object>objects\back_mode</object>
     <object>objects\okO</object>
-    <object>objects\BackGround_sound</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\MenuRoom</room>
