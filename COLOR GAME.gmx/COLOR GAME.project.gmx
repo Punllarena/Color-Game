@@ -26,24 +26,27 @@
     <sprite>sprites\backMode1</sprite>
     <sprite>sprites\okCredits</sprite>
     <sprite>sprites\okCredits1</sprite>
+    <sprite>sprites\sprite18</sprite>
     <sprite>sprites\spr_red</sprite>
     <sprite>sprites\spr_blue</sprite>
     <sprite>sprites\spr_green</sprite>
     <sprite>sprites\spr_white</sprite>
-    <sprite>sprites\spr_yellow</sprite>
     <sprite>sprites\spr_pink</sprite>
+<<<<<<< HEAD
     <sprite>sprites\sprite24</sprite>
     <sprite>sprites\spr_instruct</sprite>
     <sprite>sprites\SPR_INST</sprite>
     <sprite>sprites\SPR_DICE</sprite>
     <sprite>sprites\SPR_ROLL</sprite>
     <sprite>sprites\SPR_COI</sprite>
+=======
+    <sprite>sprites\spr_yellow</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\front_page</background>
     <background>background\Modes</background>
     <background>background\bgCredits</background>
-    <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -61,20 +64,26 @@
     <object>objects\obj_blue</object>
     <object>objects\obj_green</object>
     <object>objects\obj_white</object>
-    <object>objects\obj_yellow</object>
     <object>objects\obj_pink</object>
+<<<<<<< HEAD
     <object>objects\OBJ_INSTRUCT</object>
     <object>objects\OBJ_INST</object>
     <object>objects\OBJ_DICE</object>
     <object>objects\OBJ_ROLL</object>
     <object>objects\object21</object>
+=======
+    <object>objects\obj_yellow</object>
+>>>>>>> origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\MenuRoom</room>
     <room>rooms\Mode</room>
     <room>rooms\CreditsRoom</room>
+<<<<<<< HEAD
     <room>rooms\Normal</room>
     <room>rooms\rm_instruct</room>
+=======
+>>>>>>> origin/master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
